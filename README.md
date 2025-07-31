@@ -10,7 +10,7 @@ This project demonstrates an end-to-end **ETL (Extract, Transform, Load)** data 
 - 📦 Extracts real-time weather data for a specified city
 - 🧹 Cleans and transforms data using Python (Pandas & JSON handling)
 - 🗃️ Stores transformed data in a **PostgreSQL** table
-- ♻️ Supports automation for regular updates (can be extended with scheduling tools like `cron` or `Airflow`)
+- ♻️ Supports automation for regular updates (can be extended with scheduling tools like `cron` or `Airflow`).
 
 ---
 
